@@ -1,4 +1,4 @@
-name: Auto Update Worker
+name: Auto Update WorkerX
 
 on: 
   push: 
